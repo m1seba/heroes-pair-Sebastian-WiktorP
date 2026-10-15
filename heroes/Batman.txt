@@ -1,0 +1,4 @@
+Imię: Batman
+Świat: DC
+Cecha: Silny
+
